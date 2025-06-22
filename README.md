@@ -45,7 +45,7 @@ The project was developed as part of the final capstone for a fullstack data ana
 | Tool         | Purpose                      |
 |--------------|------------------------------|
 | Python       | Data processing & analysis   |
-| Numpy        | create data range            |
+| Numpy        | Create data range            |
 | Pandas       | Data manipulation            |
 | Pandasql     | SQL queries on pandas DataFrames |
 | Matplotlib & Seaborn | Data visualization |
@@ -54,8 +54,8 @@ The project was developed as part of the final capstone for a fullstack data ana
 ---
 
 ## Project Structure
+retail-sales-analysis-python-sql
 
- retail-sales-analysis-python-sql/
 ├── Final_Project.ipynb
 ├── visuals/ (screenshots of data visualization)
 ├── README.md
@@ -65,8 +65,8 @@ The project was developed as part of the final capstone for a fullstack data ana
 
 ## Charts & Visualizations
 
-- Monthly Sales: Before Discount Weekday vs Weekend
-- Sales Before vs After Discount by Day Type
+- Monthly Sales: Before Discount Weekday vs Weekend ![main](visuals/Before-Discount-Weekday-vs-Weekend.png)
+- Sales Before vs After Discount by Day Type ![main](visuals/Before-vs-After-Discount-by-Day-Type.png)
 
 ---
 
