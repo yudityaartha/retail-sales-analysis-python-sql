@@ -72,7 +72,7 @@ retail-sales-analysis-python-sql/
 - Monthly Sales: Before Discount Weekday vs Weekend
   ![main](visuals/Before-Discount-Weekday-vs-Weekend.png)
   
-- Sales Before vs After Discount by Day Type
+- Sales Before vs After Discount by Day Type   
   ![main](visuals/Before-vs-After-Discount-by-Day-Type.png)
 
 ---
