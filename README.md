@@ -54,11 +54,8 @@ The project was developed as part of the final capstone for a fullstack data ana
 ---
 
 ## Project Structure
-retail-sales-analysis-python-sql
 
-├── Final_Project.ipynb
-├── visuals/ (screenshots of data visualization)
-├── README.md
+``` retail-sales-analysis-python-sql/  ├── 📄 Final_Project.ipynb ├── 📄 audience_list.csv ├── 📁 visuals/ │ ├── Monthly Sales: Before Discount Weekday vs Weekend.png │ ├── Sales Before vs After Discount by Day Type.png ├── 📄 README.md ```
 
 
 ---
